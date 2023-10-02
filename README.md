@@ -4,7 +4,11 @@ So, let’s assume you need to save a base64 encoded image that has been embedde
 
 Time to create a JavaScript Bookmarklet (cf. https://www.freecodecamp.org/news/what-are-bookmarklets/) for that purpose.
 
+![Screenshot](screenshot.png "Screenshot of how to use this bookmarklet")
+
 ## Usage
 
 - Import base64bookmark.html in your browser’s bookmark manager
+- Load the HTML for each image
+- Click your bookmarklet to save the jpg, which has been loaded
 - Tested with Chrome (appends a sequential number to your downloaded jpgs) and Firefox
