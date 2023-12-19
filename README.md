@@ -8,6 +8,7 @@ Time to create a JavaScript Bookmarklet (cf. https://www.freecodecamp.org/news/w
 
 ## Usage
 
+0. Clone this repository or just download the [base64bookmark.html](https://raw.githubusercontent.com/QHOD/base64bookmark/main/base64bookmark.html) file (*Save as* from the browser)
 1. Import base64bookmark.html in your browser’s bookmark manager
 
 ![import bookmark](https://github.com/QHOD/base64bookmark/assets/37441365/497447d5-bf00-4f7d-a19f-cee97f22a14d)
